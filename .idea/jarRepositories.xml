@@ -2,9 +2,49 @@
 <project version="4">
   <component name="RemoteRepositoriesConfiguration">
     <remote-repository>
+      <option name="id" value="maven-snapshot-group@ocean.nexus.ocado.tech" />
+      <option name="name" value="maven-snapshot-group@ocean.nexus.ocado.tech" />
+      <option name="url" value="https://ocean.nexus.ocado.tech/repository/maven-snapshot-group" />
+    </remote-repository>
+    <remote-repository>
       <option name="id" value="central" />
       <option name="name" value="Central Repository" />
       <option name="url" value="https://repo.maven.apache.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="maven-releases@ospcfc.nexus.ocado.tech" />
+      <option name="name" value="maven-releases@ospcfc.nexus.ocado.tech" />
+      <option name="url" value="https://ospcfc.nexus.ocado.tech/repository/maven-releases" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Central Repository" />
+      <option name="url" value="https://nexus.ocado.tech/repository/maven-central/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="maven-release-group@ocean.nexus.ocado.tech" />
+      <option name="name" value="maven-release-group@ocean.nexus.ocado.tech" />
+      <option name="url" value="https://ocean.nexus.ocado.tech/repository/maven-release-group" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="maven-releases@atm.nexus.ocado.tech" />
+      <option name="name" value="maven-releases@atm.nexus.ocado.tech" />
+      <option name="url" value="https://atm.nexus.ocado.tech/repository/maven-releases" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="maven-snapshots@atm.nexus.ocado.tech" />
+      <option name="name" value="maven-snapshots@atm.nexus.ocado.tech" />
+      <option name="url" value="https://atm.nexus.ocado.tech/repository/maven-snapshots" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="maven-snapshot-group@ospcfc.nexus.ocado.tech" />
+      <option name="name" value="maven-snapshot-group@ospcfc.nexus.ocado.tech" />
+      <option name="url" value="https://ospcfc.nexus.ocado.tech/repository/maven-snapshot-group" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="maven-snapshots@ospcfc.nexus.ocado.tech" />
+      <option name="name" value="maven-snapshots@ospcfc.nexus.ocado.tech" />
+      <option name="url" value="https://ospcfc.nexus.ocado.tech/repository/maven-snapshots" />
     </remote-repository>
     <remote-repository>
       <option name="id" value="central" />
@@ -12,9 +52,64 @@
       <option name="url" value="https://repo1.maven.org/maven2" />
     </remote-repository>
     <remote-repository>
+      <option name="id" value="maven-snapshot-group@atm.nexus.ocado.tech" />
+      <option name="name" value="maven-snapshot-group@atm.nexus.ocado.tech" />
+      <option name="url" value="https://atm.nexus.ocado.tech/repository/maven-snapshot-group" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="legacy-maven-releases@nexus.ocado.tech" />
+      <option name="name" value="legacy-maven-releases@nexus.ocado.tech" />
+      <option name="url" value="https://nexus.ocado.tech/repository/legacy-maven-releases" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="shared-maven-snapshots@nexus.ocado.tech" />
+      <option name="name" value="shared-maven-snapshots@nexus.ocado.tech" />
+      <option name="url" value="https://nexus.ocado.tech/repository/shared-maven-snapshots" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="shared-maven-snapshot-group@nexus.ocado.tech" />
+      <option name="name" value="shared-maven-snapshot-group@nexus.ocado.tech" />
+      <option name="url" value="https://nexus.ocado.tech/repository/shared-maven-snapshot-group" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="shared-maven-releases@nexus.ocado.tech" />
+      <option name="name" value="shared-maven-releases@nexus.ocado.tech" />
+      <option name="url" value="https://nexus.ocado.tech/repository/shared-maven-releases" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="maven-release-group@atm.nexus.ocado.tech" />
+      <option name="name" value="maven-release-group@atm.nexus.ocado.tech" />
+      <option name="url" value="https://atm.nexus.ocado.tech/repository/maven-release-group" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="maven-releases@ocean.nexus.ocado.tech" />
+      <option name="name" value="maven-releases@ocean.nexus.ocado.tech" />
+      <option name="url" value="https://ocean.nexus.ocado.tech/repository/maven-releases" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="shared-maven-release-group@nexus.ocado.tech" />
+      <option name="name" value="shared-maven-release-group@nexus.ocado.tech" />
+      <option name="url" value="https://nexus.ocado.tech/repository/shared-maven-release-group" />
+    </remote-repository>
+    <remote-repository>
       <option name="id" value="jboss.community" />
       <option name="name" value="JBoss Community repository" />
       <option name="url" value="https://repository.jboss.org/nexus/content/repositories/public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="maven-release-group@ospcfc.nexus.ocado.tech" />
+      <option name="name" value="maven-release-group@ospcfc.nexus.ocado.tech" />
+      <option name="url" value="https://ospcfc.nexus.ocado.tech/repository/maven-release-group" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="maven-snapshots@ocean.nexus.ocado.tech" />
+      <option name="name" value="maven-snapshots@ocean.nexus.ocado.tech" />
+      <option name="url" value="https://ocean.nexus.ocado.tech/repository/maven-snapshots" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="legacy-maven-snapshots@nexus.ocado.tech" />
+      <option name="name" value="legacy-maven-snapshots@nexus.ocado.tech" />
+      <option name="url" value="https://nexus.ocado.tech/repository/legacy-maven-snapshots" />
     </remote-repository>
   </component>
 </project>
